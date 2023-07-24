@@ -1,0 +1,64 @@
+html,
+body{
+margin: 0;
+padding: 0;
+    background-color: lightgray;
+}
+header {
+   margin-top: -20px;
+   height: 70px;
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+.post{
+    background-color: white;
+    margin-top: 50px;
+    width: 500px;
+    height: 500px;
+    
+    
+}
+.postTwo{
+    background-color: white;
+    margin-top: 50px;
+    width: 500px;
+    height: 500px;
+    
+    
+}
+.postThree{
+    background-color: white;
+    margin-top: 50px;
+    width: 500px;
+    height: 500px;
+    
+    
+}
+h4{
+    text-align: center;
+}
+#main{
+    justify-content: center;
+    display: flex;
+
+
+}
+#mainTwo{
+    justify-content: center;
+    display: flex;
+
+
+}
+#mainThree{
+    justify-content: center;
+    display: flex;
+
+
+}
+img{
+    
+        width: 500px;
+        height: auto;
+    
+}
